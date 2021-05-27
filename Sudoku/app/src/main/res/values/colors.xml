@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9B1C31</color>
+    <color name="colorPrimaryDark">#9B1C31</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="choiceItemBackground">#667788</color>
+    <color name="choiceItemActiveBackground">#9B1C31</color>
+    <color name="choiceItemPressedBackground">#9B1C31</color>
+    <color name="white">#FFFF</color>
+
+
+</resources>

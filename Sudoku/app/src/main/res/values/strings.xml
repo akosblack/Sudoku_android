@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="btn_start">Új játék</string>
+    <string name="diffEasy">Könnyű</string>
+    <string name="diffNormal">Közepes</string>
+    <string name="diffHard">Nehéz</string>
+    <string name="btn_num1">1</string>
+    <string name="btn_num2">2</string>
+    <string name="btn_num3">3</string>
+    <string name="btn_num4">4</string>
+    <string name="btn_num5">5</string>
+    <string name="btn_num6">6</string>
+    <string name="btn_num7">7</string>
+    <string name="btn_num8">8</string>
+    <string name="btn_num9">9</string>
+    <string name="btn_num10">10</string>
+    <string name="btn_highscore">Eredmények</string>
+    <string name="btn_about">Infó</string>
+    <string name="toast_highscore">Eredmények</string>
+    <string name="txt_about">Made by Akos Black\nin 2019/20/II. semester</string>
+    <string name="title_activity_about">Az alkalmazásról</string>
+    <string name="title_activity_game">Játék</string>
+    <string name="title_activity_diff">Nehézség</string>
+    <string name="mainText">Sudoku</string>
+    <string name="backround_6line">Backround</string>
+    <string name="itemCreateResult" />
+    <string name="wintime">WinTime</string>
+    <string name="username">UserName</string>
+    <string name="_1">1.</string>
+    <string name="title_results_list">Eredmények</string>
+    <string name="delete">Törlés</string>
+    <string name="back">Vissza</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="lblUserIcon">UserIcon</string>
+    <string name="btnOk">Ok</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="time">Time</string>
+    <string name="winned">Gratulálok! Kérlek írd be a neved és válalassz egy képet!</string>
+    <string name="notification_text">Notification</string>
+    <string name="icon">Icon</string>
+    <string name="restart">Új indítás</string>
+    <string name="x">X</string>
+    <string name="demo">Demo</string>
+</resources>
